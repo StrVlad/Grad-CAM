@@ -41,7 +41,6 @@ Classic real-world examples:
 | Domain | Shortcut | What the model ignores |
 |---|---|---|
 | Medical imaging | Hospital watermarks on X-rays | Pathology itself |
-| NLP sentiment | Length of text | Actual sentiment |
 | Object detection | Objects always on white background | Object shape |
 | Autonomous driving | Road color in training region | Road geometry |
 
